@@ -5,3 +5,6 @@
 [submodule "EmiStatR"]
 	path = EmiStatR
 	url = https://github.com/cran/EmiStatR
+[submodule "Watersheds"]
+	path = Watersheds
+	url = https://github.com/cran/Watersheds
